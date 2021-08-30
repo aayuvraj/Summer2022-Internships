@@ -12,7 +12,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 ## The List 👔
 
 | Name  |  Location |  Notes | Personal Notes
-|---|---|-------------|
+|---|---|-------------|---------|
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | <del>Bridgewater Associates</del> | | **Closed** |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
